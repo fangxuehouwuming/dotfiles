@@ -1,0 +1,11 @@
+[user]
+	name = fangxuehouwuming
+	email = 2416811040@qq.com
+[safe]
+	directory = D:/blog/.deploy_git
+[https]
+	proxy = 127.0.0.1:33210
+[http]
+	proxy = 127.0.0.1:33210
+[alias]
+    	graph = log --all --graph --decorate --oneline
